@@ -48,7 +48,7 @@ O objetivo principal é aplicar conceitos básicos de programação, sendo ideal
 4. Execute o programa:
 
    ```bash
-   python nome_do_arquivo.py
+   python app.py
    ```
 
 ---
