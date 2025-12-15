@@ -38,12 +38,12 @@ O objetivo principal é aplicar conceitos básicos de programação, sendo ideal
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/seu-usuario/Sabor-Express.git
    ```
 3. Acesse a pasta do projeto:
 
    ```bash
-   cd seu-repositorio
+   cd Sabor-Express
    ```
 4. Execute o programa:
 
