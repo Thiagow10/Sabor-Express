@@ -38,7 +38,7 @@ O objetivo principal é aplicar conceitos básicos de programação, sendo ideal
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/Sabor-Express.git
+   git clone https://github.com/Thiagow10/Sabor-Express.git
    ```
 3. Acesse a pasta do projeto:
 
